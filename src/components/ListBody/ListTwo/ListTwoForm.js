@@ -23,14 +23,14 @@ const ListTwoForm = (props) => {
   }
   return (
     <div className='fromtwo'>
-      <form>
+      <form onSubmit={submitHandler}>
         <label>
           tittle<div><input type='text' ref={tittleInputRef} required/></div>
         </label>
         <label>
           description<div><textarea ref={descriptionInputRef} required/></div>
         </label>
-        <button onClick={submitHandler}>Submit</button>
+        <button >Submit</button>
       </form>
     </div>
   );
