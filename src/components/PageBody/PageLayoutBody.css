@@ -1,0 +1,15 @@
+
+.rigtblock{
+    /* display: inline-block; */
+  background-color: #0000ff;
+  height: 90vh;
+  width: 15.15vw;
+  float: right;
+  
+  }
+  .edittodo{
+    border-radius: 0px;
+    background-color: #808080;
+    width: 12vw;
+    text-align: center; 
+  }

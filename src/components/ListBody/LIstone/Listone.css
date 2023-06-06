@@ -1,0 +1,12 @@
+.emptypagebody{
+    /* display: inline-block; */
+    display: flex;
+height: 90vh;
+
+background-color: #0000ff;
+float: left;
+overflow: hidden;
+
+border: 0px;
+}
+

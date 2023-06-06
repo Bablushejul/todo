@@ -1,0 +1,10 @@
+.header{
+    /* display: inline-block; */
+      height: 10vh;
+      width: 81.14vw;
+    background-color: #0000ff;
+    float: right;
+    text-align: center;
+    
+    border: 3px solid azure;
+    }

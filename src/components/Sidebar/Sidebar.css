@@ -1,0 +1,11 @@
+
+.left__block{
+    /* display: inline-block; */
+  height: 100vh;
+  width: 18vw;
+  
+  background-color: #0000ff;
+  float: left;
+  border: 3px solid azure;
+  margin-left: 0PX;
+  }
